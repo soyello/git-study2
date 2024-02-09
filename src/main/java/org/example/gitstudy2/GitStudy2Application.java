@@ -13,6 +13,7 @@ public class GitStudy2Application {
         System.out.println(" ");
         System.out.println("new line");
         System.out.println("C");
+        System.out.println("D");
         SpringApplication.run(GitStudy2Application.class, args);
     }
 
