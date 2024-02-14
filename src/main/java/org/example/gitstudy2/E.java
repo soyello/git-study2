@@ -1,4 +1,4 @@
 package org.example.gitstudy2;
 
-public class G {
+public class E {
 }
